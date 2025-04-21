@@ -20,7 +20,7 @@ This project analyzes the health effects of indoor air pollution from biomass fu
 ##  What’s in This Repo
 
 - `biomass_analysis.R`: R script for data cleaning, exploratory data visualization, chi-square testing, and logistic regression analysis.
-- `biomass_soweto_data.csv`: Sample dataset (C:\Users\ELITEBOOK\Documents\Data set( research project).csv)
+- `biomass_soweto_data.csv`: Sample dataset ("C:\Users\ELITEBOOK\Documents\biomass_data_soweto.csv")
 - `README.md`: This file with an overview of the project.
 
 ##  Example Visualizations
